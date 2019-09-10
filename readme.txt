@@ -4,7 +4,7 @@
 docker-compose up
 
 2. Start the Game Server
-cd balloon-game-Server
+cd balloon-game-server
 mvn compile quarkus:dev
 
 3. Start the Pop Stream analyzer (determines achievements & bonuses)
